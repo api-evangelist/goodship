@@ -1,21 +1,45 @@
 aid: goodship
 name: GoodShip
-description: 'GoodShip is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: marketplaces. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'GoodShip is a freight orchestration and procurement platform for shippers,
+  brokers, and asset-based carriers. It unifies TMS tender, contract-award, and location
+  data, enriches it with real-time market rates, and layers AI-assisted bid analysis
+  (via its Laney AI transportation analyst), lane- and carrier-level performance analytics,
+  carrier scorecards, and in-app collaboration on top. Teams run mini-bids and full-network
+  RFPs, benchmark spend against the market, and take corrective action without dedicated
+  developer resources. Plug-and-play with major transportation management systems;
+  backed by Bessemer Venture Partners and serving US and Canadian operations.'
 url: https://raw.githubusercontent.com/api-evangelist/goodship/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/66704ff0b4625541998c42d7/66704ff0b4625541998c4376_GoodShip%20Logo_White%201.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - bessemer-venture-partners
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enriched-identity-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Marketplaces
+- Freight
+- Logistics
+- Transportation
+- Procurement
+- Supply Chain
+- Analytics
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.goodship.io/
+- type: About
+  url: https://www.goodship.io/about
+- type: Blog
+  url: https://www.goodship.io/blog
+- type: Login
+  url: https://app.goodship.io/signin
+- type: TermsOfService
+  url: https://www.goodship.io/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.goodship.io/legal/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/goodship-io
+- type: LinkedIn
+  url: https://www.linkedin.com/company/goodship-io/
+- type: Twitter
+  url: https://x.com/goodship_io
+- type: LLMsTxt
+  url: llms/goodship-llms.txt
+- type: DomainSecurity
+  url: security/goodship-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

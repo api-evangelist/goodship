@@ -1,0 +1,34 @@
+# GoodShip
+
+> GoodShip is a freight orchestration and procurement platform for shippers. It helps teams unify transportation data, automate bid analysis with AI, optimize carrier performance, and improve freight service and spend.
+
+GoodShip�s public website focuses on product capabilities, AI-assisted transportation analysis, customer education, and company information. Start with the overview and product pages below. Prefer pages that describe workflows, concepts, and product behavior over promotional pages.
+
+## Overview
+
+- [Homepage](https://www.goodship.io/): High-level overview of GoodShip�s platform and positioning.
+- [About](https://www.goodship.io/about): Company background, leadership, and mission.
+
+## Product
+
+- [Product Overview](https://www.goodship.io/product-main-page): Main product page for transportation procurement and analytics.
+- [Procurement](https://www.goodship.io/): Public overview of transportation procurement capabilities.
+- [Analytics](https://www.goodship.io/): Public overview of analytics and recommendations.
+- [Carrier Management](https://www.goodship.io/): Public overview of carrier-facing workflows and performance management.
+- [Collaboration](https://www.goodship.io/): Public overview of in-app collaboration and issue resolution workflows.
+
+## AI
+
+- [Laney AI](https://www.goodship.io/): Overview of GoodShip�s AI transportation analyst capabilities.
+
+## Resources
+
+- [FAQ](https://www.goodship.io/faq): Common questions and answers.
+- [Customer Stories](https://www.goodship.io/customer-stories): Customer use cases and outcomes.
+- [Webinars](https://www.goodship.io/webinars): Educational and product-related sessions.
+- [News](https://www.goodship.io/news): Company announcements and updates.
+
+## Optional
+
+- [Request a Demo](https://www.goodship.io/): Sales entry point; useful for commercial intent, not product behavior.
+- [Sign In](https://app.goodship.io/): Application login, generally not useful for public-site understanding.
