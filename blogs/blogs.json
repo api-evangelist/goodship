@@ -2,6 +2,27 @@
   "repo": "goodship",
   "feeds": [
     {
+      "source": "https://www.goodship.io/blog",
+      "feed_url": "https://www.goodship.io/blog/rss.xml",
+      "title": "",
+      "saved": 13,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.goodship.io/resources",
+      "feed_url": "https://www.goodship.io/resources/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.goodship.io/resources/rss.xml",
+      "feed_url": "https://www.goodship.io/resources/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.goodship.io/about",
       "feed_url": "https://www.goodship.io/about",
       "title": "",
@@ -9,6 +30,6 @@
       "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "post_count": 13,
+  "fetched": "2026-10-10T13:15:00Z"
 }
