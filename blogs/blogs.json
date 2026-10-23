@@ -5,7 +5,7 @@
       "source": "https://www.goodship.io/blog",
       "feed_url": "https://www.goodship.io/blog/rss.xml",
       "title": "",
-      "saved": 13,
+      "saved": 0,
       "method": "discovered"
     },
     {
@@ -23,6 +23,13 @@
       "method": "feed"
     },
     {
+      "source": "https://www.goodship.io/blog/rss.xml",
+      "feed_url": "https://www.goodship.io/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.goodship.io/about",
       "feed_url": "https://www.goodship.io/about",
       "title": "",
@@ -30,6 +37,6 @@
       "method": "none"
     }
   ],
-  "post_count": 13,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 79,
+  "fetched": "2026-10-17T14:53:57Z"
 }
